@@ -101,7 +101,7 @@ namespace UEBUNG01
 
 			while (i < 11) {
 				Console.Write(i + " ");
-				++i;
+				i++;
 			}
 
 			Console.Write("\n\n");
